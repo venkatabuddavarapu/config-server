@@ -1,1 +1,2 @@
-
+payment-service:
+  message: "Payment Service: Your payment is being processed."
